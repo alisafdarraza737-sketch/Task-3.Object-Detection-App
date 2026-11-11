@@ -100,7 +100,7 @@ Task-3.Object-Detection-App/
 **Ali Safdar Raza**
 
 - GitHub: [@alisafdarraza737-sketch](https://github.com/alisafdarraza737-sketch)
-- LinkedIn: [Ali Safdar Raza](https://www.linkedin.com/in/alisafdar-raza-07984b390/)
+- LinkedIn: (https://www.linkedin.com/in/alisafdar-raza-07984b390/)
 
 ---
 
